@@ -1,0 +1,147 @@
+[30-Apr-2025 19:07:15 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on bool in C:\XAMP\htdocs\Cosmetic.order\create_admin.php:21
+Stack trace:
+#0 {main}
+  thrown in C:\XAMP\htdocs\Cosmetic.order\create_admin.php on line 21
+[30-Apr-2025 19:23:27 Europe/Berlin] Session user_id: 2
+[30-Apr-2025 19:23:27 Europe/Berlin] Session is_admin: true
+[30-Apr-2025 19:23:38 Europe/Berlin] User logged in: admin
+[30-Apr-2025 19:23:38 Europe/Berlin] Is admin: true
+[30-Apr-2025 19:23:39 Europe/Berlin] Session user_id: 2
+[30-Apr-2025 19:23:39 Europe/Berlin] Session is_admin: true
+[30-Apr-2025 19:24:14 Europe/Berlin] Session user_id: 2
+[30-Apr-2025 19:24:14 Europe/Berlin] Session is_admin: true
+[30-Apr-2025 19:24:16 Europe/Berlin] Session user_id: 2
+[30-Apr-2025 19:24:16 Europe/Berlin] Session is_admin: true
+[30-Apr-2025 19:25:01 Europe/Berlin] User logged in: malek.chlibi
+[30-Apr-2025 19:25:01 Europe/Berlin] Is admin: false
+[30-Apr-2025 19:25:01 Europe/Berlin] Session user_id: 1
+[30-Apr-2025 19:25:01 Europe/Berlin] Session is_admin: false
+[30-Apr-2025 19:29:23 Europe/Berlin] Session user_id: 1
+[30-Apr-2025 19:29:23 Europe/Berlin] Session is_admin: false
+[30-Apr-2025 19:29:57 Europe/Berlin] User logged in: admin
+[30-Apr-2025 19:29:57 Europe/Berlin] Is admin: true
+[30-Apr-2025 19:29:57 Europe/Berlin] Session user_id: 2
+[30-Apr-2025 19:29:57 Europe/Berlin] Session is_admin: true
+[30-Apr-2025 19:30:01 Europe/Berlin] Session user_id: 2
+[30-Apr-2025 19:30:01 Europe/Berlin] Session is_admin: true
+[30-Apr-2025 19:30:03 Europe/Berlin] Session user_id: 2
+[30-Apr-2025 19:30:03 Europe/Berlin] Session is_admin: true
+[30-Apr-2025 19:30:31 Europe/Berlin] Session user_id: 2
+[30-Apr-2025 19:30:31 Europe/Berlin] Session is_admin: true
+[30-Apr-2025 19:30:36 Europe/Berlin] Session user_id: 2
+[30-Apr-2025 19:30:36 Europe/Berlin] Session is_admin: true
+[30-Apr-2025 19:30:40 Europe/Berlin] Session user_id: 2
+[30-Apr-2025 19:30:40 Europe/Berlin] Session is_admin: true
+[30-Apr-2025 19:32:43 Europe/Berlin] Session user_id: not set
+[30-Apr-2025 19:32:43 Europe/Berlin] Session is_admin: not set
+[30-Apr-2025 20:02:32 Europe/Berlin] User logged in: admin
+[30-Apr-2025 20:02:32 Europe/Berlin] Is admin: true
+[30-Apr-2025 20:02:32 Europe/Berlin] Session user_id: 2
+[30-Apr-2025 20:02:32 Europe/Berlin] Session is_admin: true
+[30-Apr-2025 20:02:54 Europe/Berlin] Session user_id: 2
+[30-Apr-2025 20:02:54 Europe/Berlin] Session is_admin: true
+[30-Apr-2025 20:03:06 Europe/Berlin] Session user_id: 2
+[30-Apr-2025 20:03:06 Europe/Berlin] Session is_admin: true
+[30-Apr-2025 20:05:19 Europe/Berlin] Session user_id: 2
+[30-Apr-2025 20:05:19 Europe/Berlin] Session is_admin: true
+[30-Apr-2025 20:07:04 Europe/Berlin] Session user_id: 2
+[30-Apr-2025 20:07:04 Europe/Berlin] Session is_admin: true
+[30-Apr-2025 20:07:58 Europe/Berlin] User logged in: salma123
+[30-Apr-2025 20:07:58 Europe/Berlin] Is admin: false
+[30-Apr-2025 20:07:58 Europe/Berlin] Session user_id: 3
+[30-Apr-2025 20:07:58 Europe/Berlin] Session is_admin: false
+[30-Apr-2025 20:10:45 Europe/Berlin] Session user_id: 3
+[30-Apr-2025 20:10:45 Europe/Berlin] Session is_admin: false
+[30-Apr-2025 20:10:50 Europe/Berlin] Session user_id: 3
+[30-Apr-2025 20:10:50 Europe/Berlin] Session is_admin: false
+[30-Apr-2025 20:18:19 Europe/Berlin] User logged in: salma123
+[30-Apr-2025 20:18:19 Europe/Berlin] Is admin: false
+[30-Apr-2025 20:18:19 Europe/Berlin] Session user_id: 3
+[30-Apr-2025 20:18:19 Europe/Berlin] Session is_admin: false
+[30-Apr-2025 20:23:44 Europe/Berlin] Session user_id: 3
+[30-Apr-2025 20:23:44 Europe/Berlin] Session is_admin: false
+[30-Apr-2025 20:24:12 Europe/Berlin] User logged in: admin
+[30-Apr-2025 20:24:12 Europe/Berlin] Is admin: true
+[30-Apr-2025 20:24:12 Europe/Berlin] Session user_id: 2
+[30-Apr-2025 20:24:12 Europe/Berlin] Session is_admin: true
+[30-Apr-2025 20:25:41 Europe/Berlin] Session user_id: 2
+[30-Apr-2025 20:25:41 Europe/Berlin] Session is_admin: true
+[30-Apr-2025 20:25:45 Europe/Berlin] Session user_id: 2
+[30-Apr-2025 20:25:45 Europe/Berlin] Session is_admin: true
+[30-Apr-2025 20:25:45 Europe/Berlin] Session user_id: 2
+[30-Apr-2025 20:25:45 Europe/Berlin] Session is_admin: true
+[30-Apr-2025 20:25:45 Europe/Berlin] Session user_id: 2
+[30-Apr-2025 20:25:45 Europe/Berlin] Session is_admin: true
+[30-Apr-2025 20:26:01 Europe/Berlin] User logged in: salma123
+[30-Apr-2025 20:26:01 Europe/Berlin] Is admin: false
+[30-Apr-2025 20:26:01 Europe/Berlin] Session user_id: 3
+[30-Apr-2025 20:26:01 Europe/Berlin] Session is_admin: false
+[30-Apr-2025 20:27:31 Europe/Berlin] Session user_id: 3
+[30-Apr-2025 20:27:31 Europe/Berlin] Session is_admin: false
+[30-Apr-2025 20:28:24 Europe/Berlin] Session user_id: not set
+[30-Apr-2025 20:28:24 Europe/Berlin] Session is_admin: not set
+[30-Apr-2025 20:28:24 Europe/Berlin] Access denied - redirecting to login
+[30-Apr-2025 20:28:53 Europe/Berlin] User logged in: admin
+[30-Apr-2025 20:28:53 Europe/Berlin] Is admin: true
+[30-Apr-2025 20:28:53 Europe/Berlin] Session user_id: 2
+[30-Apr-2025 20:28:53 Europe/Berlin] Session is_admin: true
+[30-Apr-2025 20:34:00 Europe/Berlin] Session user_id: 2
+[30-Apr-2025 20:34:00 Europe/Berlin] Session is_admin: true
+[30-Apr-2025 20:34:15 Europe/Berlin] Session user_id: 2
+[30-Apr-2025 20:34:15 Europe/Berlin] Session is_admin: true
+[30-Apr-2025 20:34:24 Europe/Berlin] User logged in: salma123
+[30-Apr-2025 20:34:24 Europe/Berlin] Is admin: false
+[30-Apr-2025 20:34:24 Europe/Berlin] Session user_id: 3
+[30-Apr-2025 20:34:24 Europe/Berlin] Session is_admin: false
+[30-Apr-2025 20:34:31 Europe/Berlin] Session user_id: 3
+[30-Apr-2025 20:34:31 Europe/Berlin] Session is_admin: false
+[30-Apr-2025 20:37:47 Europe/Berlin] Session user_id: 3
+[30-Apr-2025 20:37:47 Europe/Berlin] Session is_admin: false
+[30-Apr-2025 20:37:58 Europe/Berlin] Session user_id: 3
+[30-Apr-2025 20:37:58 Europe/Berlin] Session is_admin: false
+[30-Apr-2025 20:42:12 Europe/Berlin] User logged in: salma123
+[30-Apr-2025 20:42:12 Europe/Berlin] Is admin: false
+[30-Apr-2025 20:42:12 Europe/Berlin] Session user_id: 3
+[30-Apr-2025 20:42:12 Europe/Berlin] Session is_admin: false
+[30-Apr-2025 20:48:19 Europe/Berlin] Session user_id: 3
+[30-Apr-2025 20:48:19 Europe/Berlin] Session is_admin: false
+[30-Apr-2025 20:55:33 Europe/Berlin] Session user_id: 3
+[30-Apr-2025 20:55:33 Europe/Berlin] Session is_admin: false
+[30-Apr-2025 20:58:25 Europe/Berlin] Session user_id: 3
+[30-Apr-2025 20:58:25 Europe/Berlin] Session is_admin: false
+[30-Apr-2025 20:58:56 Europe/Berlin] Session user_id: 3
+[30-Apr-2025 20:58:56 Europe/Berlin] Session is_admin: false
+[30-Apr-2025 21:00:46 Europe/Berlin] Session user_id: 3
+[30-Apr-2025 21:00:46 Europe/Berlin] Session is_admin: false
+[30-Apr-2025 21:02:49 Europe/Berlin] Session user_id: 3
+[30-Apr-2025 21:02:49 Europe/Berlin] Session is_admin: false
+[30-Apr-2025 21:08:33 Europe/Berlin] Session user_id: 3
+[30-Apr-2025 21:08:33 Europe/Berlin] Session is_admin: false
+[30-Apr-2025 21:08:51 Europe/Berlin] User logged in: salma123
+[30-Apr-2025 21:08:51 Europe/Berlin] Is admin: false
+[30-Apr-2025 21:08:51 Europe/Berlin] Session user_id: 3
+[30-Apr-2025 21:08:51 Europe/Berlin] Session is_admin: false
+[30-Apr-2025 21:09:02 Europe/Berlin] Session user_id: 3
+[30-Apr-2025 21:09:02 Europe/Berlin] Session is_admin: false
+[30-Apr-2025 21:09:49 Europe/Berlin] Session user_id: 3
+[30-Apr-2025 21:09:49 Europe/Berlin] Session is_admin: false
+[30-Apr-2025 21:11:36 Europe/Berlin] User logged in: admin
+[30-Apr-2025 21:11:36 Europe/Berlin] Is admin: true
+[30-Apr-2025 21:11:36 Europe/Berlin] Session user_id: 2
+[30-Apr-2025 21:11:36 Europe/Berlin] Session is_admin: true
+[30-Apr-2025 21:13:50 Europe/Berlin] Session user_id: 2
+[30-Apr-2025 21:13:50 Europe/Berlin] Session is_admin: true
+[30-Apr-2025 21:14:07 Europe/Berlin] Session user_id: 2
+[30-Apr-2025 21:14:07 Europe/Berlin] Session is_admin: true
+[05-May-2025 23:22:41 Europe/Berlin] Session user_id: 2
+[05-May-2025 23:22:41 Europe/Berlin] Session is_admin: true
+[05-May-2025 23:24:43 Europe/Berlin] Session user_id: 2
+[05-May-2025 23:24:43 Europe/Berlin] Session is_admin: true
+[05-May-2025 23:24:45 Europe/Berlin] Session user_id: 2
+[05-May-2025 23:24:45 Europe/Berlin] Session is_admin: true
+[05-May-2025 23:24:50 Europe/Berlin] Session user_id: 2
+[05-May-2025 23:24:50 Europe/Berlin] Session is_admin: true
+[05-May-2025 23:24:52 Europe/Berlin] Session user_id: 2
+[05-May-2025 23:24:52 Europe/Berlin] Session is_admin: true
+[05-May-2025 23:32:33 Europe/Berlin] Session user_id: 2
+[05-May-2025 23:32:33 Europe/Berlin] Session is_admin: true
